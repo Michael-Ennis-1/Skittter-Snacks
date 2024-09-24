@@ -26,6 +26,8 @@ I primarily worked upon the AI system for Skitter Snacks, as well as UI implemen
 ### UI
 - Implemented global UI manager to allow for UI to update as more doritos are eaten and to update player's spotting indicator in the bottom right corner.
 
+### Audio 
+- Implemeted Audio Manager to enable dynamic music control based on 
 
 ## Links
 - Link to the project on itch.io: https://bunnyufo.itch.io/skitter-snacks (I am Aculater58 in the credits, Web Build can potentially break the game, would recommend playing the build locally instead) 
