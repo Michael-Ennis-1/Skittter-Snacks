@@ -14,7 +14,7 @@ The core gameplay loop of Skitter Snacks involves the player spider ducking and 
 - Dynamic audio track that updates as the player is continuously spotted by enemy Ants, until they begin their chase.
 
 ## My Contributions
-I primarily worked upon the AI system for Skitter Snacks, as well as UI implementation and several other gameplay mechanics. 
+I primarily worked upon the AI system for Skitter Snacks, as well as UI implementation, Audio Manager and several other gameplay mechanics. 
 
 ### AI
 - State Machine design and implementation, to allow the AI to chase the player and return to patrolling when finished.
