@@ -16,7 +16,7 @@ The core gameplay loop of Skitter Snacks involves the player spider ducking and 
 ## My Contributions
 I primarily worked upon the AI system for Skitter Snacks, as well as UI implementation and several other gameplay mechanics. 
 
-AI
+### AI
 - 
 
 
