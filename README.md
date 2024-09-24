@@ -6,7 +6,7 @@ Skitter Snacks is a game jam project about a jumping spider attempting to steal 
 
 
 ## Game Mechanics
-The core game loop behind Skitter Snacks involves the player spider jumping around the map and trying to avoid the ants spotting them, while stealing the doritos while ducking and weaving between the ant's patrol path. Several key game mechanics are required to enable this game loop to function:
+The core gameplay loop of Skitter Snacks involves the player spider jumping around the map and trying to avoid the ants spotting them, while stealing the doritos while ducking and weaving between the ant's patrol path. Several key game mechanics are required to enable this game loop to function:
 - AI system that chases the player when they are within line of sight.
 - Unique "Jump" ability of the Player Spider to allow them to remove themselves from line of sight of the enemy Ant AI.
 - Phermones released from the doritos that enable the player to spot the Doritos on the map and steal them.
