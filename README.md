@@ -1,6 +1,5 @@
 # **Skittter-Snacks**
-Skitter Snacks is a game jam project about a jumping spider attempting to steal doritos from ants. Created for the online "2022 PIGSQUAD Summer Slow Jam", over 12 days, with a focus on "Stealth" gameplay mechanics. I worked alongside 4 other talented developers for this project, including another programmer.
-
+Skitter Snacks is a game jam project about a jumping spider attempting to steal doritos from ants. Created for the online "2022 PIGSQUAD Summer Slow Jam", over 12 days, with a focus on "Stealth" gameplay mechanics. I worked alongside 4 other talented developers for this project. 
 
 ![image](https://github.com/user-attachments/assets/95587d44-83e6-4471-852f-18cd7ef0836a)
 
@@ -23,7 +22,7 @@ I primarily worked upon the AI system for Skitter Snacks, as well as UI implemen
 - Navmesh implementation allowed the ants to move across most surfaces using NavLinks, so the chase can continue.
 
 ### UI
-- 
+- Implemented UI manager 
 
 
 ## Links
