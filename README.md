@@ -23,6 +23,8 @@ I primarily worked upon the AI system for Skitter Snacks, as well as UI implemen
 - Phermones system to inform other nearby ants of the player's position, to try and catch the player offguard.
 - Navmesh implementation allowed the ants to move across most surfaces using NavLinks, so the chase can continue.
 
+![image](https://github.com/user-attachments/assets/03b2a1be-fe9a-4076-b832-e7ce0f226198)
+
 ### UI
 - Implemented global UI manager to allow for UI to update as more doritos are eaten and to update player's spotting indicator in the bottom right corner.
 - Implemented billboarded sprites that update based on state of the AI.
@@ -30,8 +32,11 @@ I primarily worked upon the AI system for Skitter Snacks, as well as UI implemen
   - Orange: AI has spotted the player, but not yet chasing them
   - White:  AI has not spotted player and is currently patrolling as usual
 
+![Ant_Spotting_Player](https://github.com/user-attachments/assets/20296875-c73c-42b4-8dc0-ee466930084e)
+
 ### Audio 
-- Implemeted Audio Manager to enable dynamic music control based on gameplay triggers.
+- Implemented Audio Manager to enable dynamic music control based on gameplay triggers.
+- Implemented Sound Effects through the Audio Manager.
 
 ## Links
 - Link to the project on itch.io: https://bunnyufo.itch.io/skitter-snacks (I am Aculater58 in the credits, Web Build can potentially break the game, would recommend playing the build locally instead) 
