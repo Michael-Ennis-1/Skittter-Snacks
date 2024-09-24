@@ -22,7 +22,7 @@ I primarily worked upon the AI system for Skitter Snacks, as well as UI implemen
 - Navmesh implementation allowed the ants to move across most surfaces using NavLinks, so the chase can continue.
 
 ### UI
-- Implemented UI manager 
+- Implemented global UI manager to allow for UI to update as more doritos are eaten and to update individual
 
 
 ## Links
