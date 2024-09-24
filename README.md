@@ -25,9 +25,13 @@ I primarily worked upon the AI system for Skitter Snacks, as well as UI implemen
 
 ### UI
 - Implemented global UI manager to allow for UI to update as more doritos are eaten and to update player's spotting indicator in the bottom right corner.
+- Implemented billboarded sprites that update based on state of the AI.
+  - Red:    AI has spotted the player and is actively chasing them
+  - Orange: AI has spotted the player, but not yet chasing them
+  - White:  AI has not spotted player and is currently patrolling as usual
 
 ### Audio 
-- Implemeted Audio Manager to enable dynamic music control based on 
+- Implemeted Audio Manager to enable dynamic music control based on gameplay triggers.
 
 ## Links
 - Link to the project on itch.io: https://bunnyufo.itch.io/skitter-snacks (I am Aculater58 in the credits, Web Build can potentially break the game, would recommend playing the build locally instead) 
