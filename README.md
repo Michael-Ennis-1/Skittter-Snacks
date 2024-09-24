@@ -17,9 +17,12 @@ The core gameplay loop of Skitter Snacks involves the player spider ducking and 
 I primarily worked upon the AI system for Skitter Snacks, as well as UI implementation and several other gameplay mechanics. 
 
 ### AI
-The AI system in Skitter Snacks was created using a State Machine, allowing for the AI to update their state dynamically, responding to gameplay events. 
 - State Machine design and implementation, to allow the AI to chase the player and return to patrolling when finished.
 - Line of Sight system, allowing player to be spotted only within a specific view cone of the AI.
+- Phermones system to inform other nearby ants of the player's position, to try and catch the player offguard.
+- Navmesh implementation allowed the ants to move across most surfaces using NavLinks, so the chase can continue.
+
+### UI
 - 
 
 
