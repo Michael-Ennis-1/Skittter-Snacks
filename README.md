@@ -1,7 +1,9 @@
 # Skittter-Snacks
 Skitter Snacks is a game jam project about a jumping spider attempting to steal doritos from ants. Created for the online "2022 PIGSQUAD Summer Slow Jam", over 12 days, with a focus on "Stealth" gameplay mechanics.
 
+
 ![image](https://github.com/user-attachments/assets/95587d44-83e6-4471-852f-18cd7ef0836a)
+
 
 ## Game Mechanics
 
